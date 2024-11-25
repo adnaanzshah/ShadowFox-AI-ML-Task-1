@@ -38,29 +38,6 @@ The dataset contains 13 predictor variables and 1 target variable (`MEDV` - Medi
 
 ---
 
-## **Project Workflow**  
-
-## **Clone Repository**:  
-   Clone the repository to your local machine:  
-   ```bash  
-   git clone https://github.com/username/repository.git  
-   cd repository
-   ```
-   
-## **Install Dependencies**  
-
-Install the required Python libraries:  
-
-```bash  
-pip install -r requirements.txt
-```
-## **Run the Script**  
-
-Execute the main Python file to preprocess data, train the model, and generate predictions:
-
-```bash  
-python boston_house_price_prediction.py  
-```
 
 ## **Outputs**  
 - Correlation heatmap for feature relationships.  
